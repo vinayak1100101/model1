@@ -1,0 +1,12 @@
+body{
+ background-color:rgb(143, 186, 223);
+}
+.menu{
+    background-color: blue;
+    font-family: arial;
+    font-size: 50px;
+    padding: 50px;
+    background-position: fixed;
+    color: white;
+    margin-top: 50px;
+}
